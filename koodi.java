@@ -1,4 +1,4 @@
 koodia
 lisää koodia
 uusi rivi
-uusi rivi githubissa - develop branchiin
+uusi rivi GitHubissa - develop branchiin
