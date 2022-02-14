@@ -1,3 +1,3 @@
 tiedostossa toteutetaan nettiyhtyes
 
-System.out.pritln("Nettiyhteys");
+System.out.println("Nettiyhteys");
