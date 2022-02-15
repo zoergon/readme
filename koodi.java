@@ -6,8 +6,15 @@ tekoäly 1
 tekoäly 2
 tekoäly 3
 
-  Käytettään toteutettua nettiyhteyttä.
-  
+
+Käytettään toteutettua nettiyhteyttä.
+
+
+void TulostetaanHeiMaailma() {
+	System.out.println("hei, maailma!");
+}
+
 void TulostetaanHeiSuomi() {
   System.out.println("HEi suomi");
+
 }
